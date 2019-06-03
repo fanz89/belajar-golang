@@ -6,7 +6,7 @@ func main() {
 
 	// Sumber 	=> https://dasarpemrogramangolang.novalagung.com/12-seleksi-kondisi.html
 
-	// Penggunaan keyword "fallthrough" dalam switch
+	// Penggunaan keyword "fallthrough" di dalam switch
 	// Keyword "fallthrough" digunakan untuk memaksa proses pengecekan diteruskan ke case selanjutnya.
 
 	var point = 6 // mendeklarasikan variable point dengan diinisialisasi nilai 6

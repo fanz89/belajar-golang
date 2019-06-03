@@ -8,7 +8,7 @@ func main() {
 
 	// Operator logika 	=> mencari hasil benar atau tidak nya kombinasi dari nilai yang bertipe boolean
 	//					=> ataupun hasil dari operator pembanding
-	// Hasil dari operator logika sama dengan hasil dari operator pembanding yaitu nilai bertipe bolean
+	// Hasil dari operator logika sama dengan hasil dari operator pembanding yaitu nilai bertipe boolean
 
 	/*
 		Beberapa operator yang sering digunakan di golang

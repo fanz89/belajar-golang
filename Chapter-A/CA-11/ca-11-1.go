@@ -9,7 +9,7 @@ func main() {
 	// Operator aritmatika => operator yang digunakan untuk operasi yang sifatnya perhitungan
 
 	/*
-		Operator yang standar yang didukung oleh golang
+		Operator standar yang didukung oleh golang
 		+ => penjumahan
 		- => pengurangan
 		* => perkalian

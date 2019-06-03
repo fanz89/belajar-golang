@@ -19,7 +19,7 @@ func main() {
 	// Seleksi kondisi menggunakan if, else if dan else
 	// Penerapan di golang "parenteheses" atau tanda kurung () tidak perlu dituliskan
 
-	var point = 8 // mendeklarasikan variable point dengan diinisalisasi nilai 8
+	var point = 8 // mendeklarasikan variable point dengan di inisalisasi nilai 8
 
 	if point == 10 { // jika nilai point sama dengan nilai 10
 		fmt.Println("Lulus dengan nilai sempurna") // cetak ke layar

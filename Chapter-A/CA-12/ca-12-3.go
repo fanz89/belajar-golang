@@ -12,7 +12,7 @@ func main() {
 
 	var point = 6 // mendeklarsikan variable point dengan diinisialisasi nilai 6
 
-	switch point { // menseleksi nilai point
+	switch point { // seleksi nilai point
 	case 8: // jika nilai point sama dengan 8
 		fmt.Println("Perfect!!") // cetak ke layar Perfect!!
 	case 7: // jika nilai point sama dengan 7

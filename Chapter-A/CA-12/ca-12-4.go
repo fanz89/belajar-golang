@@ -10,7 +10,7 @@ func main() {
 	// Implementasi nya dengan menuliskan pembanding-pembanding variable yang di-switch setelah keyword "case"]
 	// Dipisah dengan tanda koma ( , ) => case 1,2,3,4
 
-	var point = 2 // mendaklarasikan variable point dengan diinisialisasi nilai 2
+	var point = 2 // mendeklarasikan variable point dengan diinisialisasi nilai 2
 
 	switch point { // menseleksi nilai point
 	case 8: // jika nilai poin sama dengan 8

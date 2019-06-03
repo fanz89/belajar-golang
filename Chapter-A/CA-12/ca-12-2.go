@@ -14,9 +14,9 @@ func main() {
 		- Ketika nilai variable tersebut didapat dari sebuah komputasi, perhitungan tidak perlu dilakukan di dalam block masing-masing kondisi
 	*/
 
-	var point = 6840.0 // mendekarasikan variable point
+	var point = 6840.0 // deklarasi variable point
 
-	if percent := point / 100; percent >= 100 { // mendaklarasikan variable percent dengan diisi nilai hasil dari point / 100 lalu lakukan operasi pembanding apakah nilai percent > 100
+	if percent := point / 100; percent >= 100 { // mendaklarasikan variable percent dengan di isi nilai hasil dari point / 100 lalu lakukan operasi pembanding apakah nilai percent > 100
 		fmt.Printf("%.1f%s Perfect!\n", percent, "%") // mencetak ke layar nilai dari percent
 	} else if percent >= 70 { // jika nilai percent lebih dari atau sama dengan 70
 		fmt.Printf("%.1f%s Good!\n", percent, "%") // mencetak ke layar nilai dari percent

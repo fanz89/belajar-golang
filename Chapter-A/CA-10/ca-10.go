@@ -8,7 +8,7 @@ func main() {
 
 	// Konstanta => jenis variable yang diinisialisasi hanya satu kali dan nilainya tidak bisa diubah
 
-	// implementasi dengan manifest typing
+	// Implementasi dengan manifest typing
 
 	const firstname string = "Muhammad" // mendeklarasikan konstanta fistname dengan tipe data string
 	fmt.Println("Hallo", firstname)     // mencetak variable fistname ke layar

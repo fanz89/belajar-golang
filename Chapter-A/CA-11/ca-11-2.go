@@ -6,7 +6,7 @@ func main() {
 
 	// Sumber 	=> https://dasarpemrogramangolang.novalagung.com/11-operator.html
 
-	// Operator pembading => menentukan kebenaran dari suatu kondisi dan hasilnya berupa nilai boolean (true / false)
+	// Operator pembanding => menentukan kebenaran dari suatu kondisi dan hasilnya berupa nilai boolean (true / false)
 	/*
 		Operator pembanding yang digunakan di golang
 		== 	=> apakah nilai kiri sama dengan nilai kanan
